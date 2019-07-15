@@ -1,0 +1,8 @@
+.vscode
+env/
+migrations/
+role_asst.db
+
+__pycache__
+app/upload/
+app/AipImageClassify.py
